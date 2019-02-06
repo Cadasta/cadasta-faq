@@ -1,0 +1,29 @@
+{
+  "name": "cadasta-faq",
+  "version": "1.0.0",
+  "description": "## Development",
+  "main": "index.js",
+  "dependencies": {
+    "gitbook": "^2.6.9"
+  },
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  },
+  "scripts": {
+    "start": "gitbook serve",
+    "docker": "docker run -it -p 4000:4000 --mount source=$(pwd)/src,target=/app/src,type=bind $npm_package_name",
+    "docker:build": "docker build -t $npm_package_name .",
+    "docs:prepare": "gitbook install",
+    "docs:build": "gitbook build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cadasta/cadasta-internal-docs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cadasta/cadasta-internal-docs/issues"
+  },
+  "homepage": "https://github.com/Cadasta/cadasta-internal-docs#readme"
+}
