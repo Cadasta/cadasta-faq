@@ -10,4 +10,5 @@ This is a list of all of the questions available in the FAQ. Questions must be l
 - [Adding a drone image to AGOL/Portal](add_img_to_AGOL/index.md)
 - [AGOL - Changing a User Password](chg_usr_pwd/index.md)
 - [Adding a Feature Layer From a File to a Collector Map](add_fl_to_collector_map/index.md)
+- [Adding a Feature Layer to a Collector Map](add_fl_to_collectormap/index.md)
 - [Glossary](glossary.md) <!-- Do not delete this, it appears that builds fail without this -->
