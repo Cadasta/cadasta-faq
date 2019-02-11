@@ -26,5 +26,6 @@
 
 
 7. Press the "Add Item"button
+8. The new layer will show up in the list of items in the "My Content" section. If you want to share this layer with any of the groups that you have access to simply press the "Share" button and select the groups you wish to share with.
 
 
