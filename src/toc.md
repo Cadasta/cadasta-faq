@@ -15,4 +15,5 @@ This is a list of all of the questions available in the FAQ. Questions must be l
 - [Deleting Vertices in ArcGIS Pro](delete_vertics_ArcPro/index.md)
 - [Joining Two Feature Layers](join_two_layers/index.md)
 - [Using a Web App](using_a_webapp/index.md)
+- [Adding a field to a feature layer](add_field/index.md)
 - [Glossary](glossary.md) <!-- Do not delete this, it appears that builds fail without this -->
