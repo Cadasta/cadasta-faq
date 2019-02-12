@@ -14,4 +14,5 @@ This is a list of all of the questions available in the FAQ. Questions must be l
 - [Changing a Basemap for a Collector Map](chg_basemap_for_collectomap/index.md)
 - [Deleting Vertices in ArcGIS Pro](delete_vertics_ArcPro/index.md)
 - [Joining Two Feature Layers](join_two_layers/index.md)
+- [Using a Web App](using_a_webapp/index.md)
 - [Glossary](glossary.md) <!-- Do not delete this, it appears that builds fail without this -->
