@@ -16,4 +16,5 @@ This is a list of all of the questions available in the FAQ. Questions must be l
 - [Joining Two Feature Layers](join_two_layers/index.md)
 - [Using a Web App](using_a_webapp/index.md)
 - [Adding a field to a feature layer](add_field/index.md)
+- [Setting Basemap Transpancey](set_basemap_trans/index.md)
 - [Glossary](glossary.md) <!-- Do not delete this, it appears that builds fail without this -->
