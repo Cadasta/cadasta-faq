@@ -23,4 +23,5 @@ This is a list of all of the questions available in the FAQ. Questions must be l
 - [Printing a Web Map](print_webmap/index.md)
 - [Adding labels to features in a web map](labeling_features/index.md)
 - [Editing Polygon Vertices](editing_vertices/index.md)
+- [Introduction to Creating a Story Map](intro_to_storymap/index.md)
 - [Glossary](glossary.md) <!-- Do not delete this, it appears that builds fail without this -->
