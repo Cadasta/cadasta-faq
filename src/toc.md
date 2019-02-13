@@ -21,4 +21,5 @@ This is a list of all of the questions available in the FAQ. Questions must be l
 - [Deleting a Collected Survey Polygon](delete_collected_polygon/index.md)
 - [Exporting Feature Layer to Shapefile](export_fl_to_shp/index.md)
 - [Printing a Web Map](print_webmap/index.md)
+- [Adding labels to features in a web map](labeling_features/index.md)
 - [Glossary](glossary.md) <!-- Do not delete this, it appears that builds fail without this -->
