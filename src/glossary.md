@@ -7,3 +7,7 @@ Esri is an international supplier of geographic information system software, web
 -->
 
 # Glossary
+
+Polygon
+Feature Layer
+
