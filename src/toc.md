@@ -27,4 +27,5 @@ This is a list of all of the questions available in the FAQ. Questions must be l
 - [Creating an Online Map](create_webmap/index.md)
 - [Introduction to Map Viewer](into_to_mapviewer/index.md)
 - [Introduction to Item Types](intro_to_itemtypes/index.md)
+- [Sending offline collected surveys](send_collected_surveys/index.md)
 - [Glossary](glossary.md) <!-- Do not delete this, it appears that builds fail without this -->
