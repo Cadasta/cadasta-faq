@@ -1,5 +1,7 @@
 # Cadasta FAQ
 
+[![Build Status](https://travis-ci.org/Cadasta/cadasta-faq.svg?branch=master)](https://travis-ci.org/Cadasta/cadasta-faq)
+
 ## Development
 
 ### Node.js
