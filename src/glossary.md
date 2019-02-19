@@ -7,3 +7,9 @@ Esri is an international supplier of geographic information system software, web
 -->
 
 # Glossary
+
+## Feature Layer
+## Feature Layers
+
+This is an explanation of a feature layer.
+
