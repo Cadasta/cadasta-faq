@@ -4,10 +4,10 @@
   "description": "## Development",
   "main": "index.js",
   "dependencies": {
-    "gitbook": "^3.2.3"
-  },
-  "devDependencies": {
-    "gitbook-cli": "^2.3.2"
+    "gitbook": "^3.2.3",
+    "gitbook-cli": "^2.3.2",
+    "gitbook-plugin-advanced-emoji": "^0.2.2",
+    "gitbook-plugin-theme-faq": "^1.2.1"
   },
   "scripts": {
     "start": "gitbook serve",

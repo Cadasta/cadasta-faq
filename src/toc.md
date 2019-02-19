@@ -6,10 +6,10 @@ This is a list of all of the questions available in the FAQ. Questions must be l
 
 ### Getting Started
 
-- [Introduction to your account](intro_to_Account/index.md)
+- [Introduction to your account](intro_to_account/index.md)
 - [Introduction to Item Types](intro_to_itemtypes/index.md)
 - [Creating an Online Map](create_webmap/index.md)
-- [Introduction to Map Viewer](into_to_mapviewer/index.md)
+- [Introduction to Map Viewer](intro_to_mapviewer/index.md)
 - [Creating a Survey Form](create_survey/index.md)
 - [Sending offline collected surveys](send_collected_surveys/index.md)
 - [Using a Web App](using_a_webapp/index.md)
@@ -32,7 +32,7 @@ This is a list of all of the questions available in the FAQ. Questions must be l
 
 ### Editing how map looks</h3>
 
-- [Changing a Basemap for a Collector Map](chg_basemap_for_collectomap/index.md)
+- [Changing a Basemap for a Collector Map](chg_basemap_for_collectormap/index.md)
 - [Adding labels to features in a web map](labeling_features/index.md)
 - [Setting Basemap Transpancey](set_basemap_trans/index.md)
 - [Creating Web Map Pop-Ups](add_webmap_popup/index.md)

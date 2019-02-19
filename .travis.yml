@@ -3,13 +3,10 @@ env:
   global:
     # GITHUB_TOKEN
     secure: IlZpxfhUvcJalsZkYzhBgiJuDTWS6FBYr/zDf0LuuFdO8HwdXP5lw7ueEMBKqGBwuDpmFLRNQJWnZdcSKjxdcpgQHxTBGVtoD/qE09gq/YnFjgeO4Zky4iLoqJJKQ5PYprEBZMU8UE1nxPVO8ItMLG66v3Idhllnrga/tNQ/9ogvWaaWKqzk/WLht0SEjM1zLfxiTZAjQKr7509k8NaIiG/B+rq5zPnSNdB2IodidPT+QCJ8RLLCYEI+hrQVuFyVNTkpno9hhR4qQGtEgG4lGt5QnPMdP4wG+halWRkGGQXHyzNfMNyUpSeDaDpopSZAn57VgLKHkP0AL/XzKVc0ZWyf3ofz4nZ8F+TawX1q/JVIik/xFdBuJuuXZhB8rXMwdGr1OcNNh7IadLCHJR1z7Q8d4/6oJ54vcP0bTeTXWHbBgGOCA1dEVWER0Sur++TfF9LTfoA5b7NvaAmcdOfACIyGhZGhpe0yqeRREktmtvrQuEuisVAbp3sdlWGdB0+JVp+KeABl6JVLQnFkU17bd5awMhvu47uNlBtjz1xe1TuIRrbvM/USqQRwEW+/81HdsLHYfwNcRlw/0k/rr8v22S9Zmg5soWDytTzs8dZu5lI/uAu1qva5l5I+WUQaGAn5RF8ITQ79JCr8UkKH3IMk1YDLs+WZmnrL6k6o4RAMygk=
-jobs:
-  include:
-    - stage: Test
-      script:
-        - npm install --ignore-scripts
-        - npm run docs:prepare
-        - npm run docs:build
+script:
+  - npm install --ignore-scripts
+  - npm run docs:prepare
+  - npm run docs:build
 deploy:
   provider: pages
   skip-cleanup: true
