@@ -29,11 +29,11 @@ User Account Information
 
 3.  Select item type **Maps**
 
-    Note: There are two sub-item types (1) Web Maps and (2) Map Files
+    _Note:_ There are two sub-item types (1) Web Maps and (2) Map Files
 
 4.  Select item sub-type **Web Maps**
 
-        Note: 	There are no Map Files sub-type in the demo group and they are not covered in this
+    _Note:_ There are no Map Files sub-type in the demo group and they are not covered in this
 
     documentation.
 
@@ -52,14 +52,12 @@ User Account Information
 
 11. Select item type **Layers**
 
-        Note: 	There are seven sub-item types (1) Feature Layers, (2) Tile Layers, (3) Map
-
-    Imager Layers, (4) Imagery Layers, (5) Scene Layers, (6) Tables, and (7) Layer
+    _Note:_ There are seven sub-item types (1) Feature Layers, (2) Tile Layers, (3) Map Imager Layers, (4) Imagery Layers, (5) Scene Layers, (6) Tables, and (7) Layer
     Files
 
 12. Select item sub-type **Feature Layers**
 
-    Note: This documentation only covers **Feature Layers**.
+    _Note:_ This documentation only covers **Feature Layers**.
 
 13. Select **Feature Layer** Project Rose Field Collector PLP
 
@@ -80,13 +78,13 @@ User Account Information
 
 21. Select item type **Apps**
 
-        Note: 	There are three sub-item types (1) Web Apps, (2) Mobile Apps, and (3) Desktop
+    _Note_: There are three sub-item types (1) Web Apps, (2) Mobile Apps, and (3) Desktop
 
     Apps
 
 22. Select item sub-type **Web Apps**
 
-        Note:	There are no Mobile App or Desktop App sub-types in the demo group and they are
+    _Note_: There are no Mobile App or Desktop App sub-types in the demo group and they are
 
     not covered in this documentation.
 
@@ -94,22 +92,22 @@ User Account Information
 
 24. Click **View Dashboard**
 
-25. See **Dashboard Details** by selecting a collected record’s \***\*polygon\*\***
+25. See **Dashboard Details** by selecting a collected record’s **polygon**
 
 26. Navigate back to **Content** and Select **Web App** Project Rose Dashboard - QA Dashboard
 
 27. Click **View Dashboard**
 
-28. See **Dashboard Details** by selecting a collected record’s \***\*point\*\***
+28. See **Dashboard Details** by selecting a collected record’s **point**
 
 29. Navigate back to **Content** and Select **Web App** Project Rose Dashboard - Resource
     Metrics
 
 30. Click **View Dashboard**
 
-31. See **Dashboard Details** by selecting a collected record’s \***\*polygon(s)\*\***
+31. See **Dashboard Details** by selecting a collected record’s **polygon(s)**
 
-    Note: This **dashboard** has the possibility of one or more manual selections at one time.
+    _Note:_ This **dashboard** has the possibility of one or more manual selections at one time.
 
 Other Item Types not covered in this documentation are:
 
@@ -118,9 +116,11 @@ Other Item Types not covered in this documentation are:
   ![](imgs/image5.jpg)
 
 - Tools
+
   ![](imgs/image2.jpg)
 
 - Files
+
   ![](imgs/image6.jpg)
 
 ---
@@ -158,7 +158,7 @@ You can navigate to the Map Viewer from any Feature Layer item details page by c
 
 ---
 
-\***\*Add a Basemap\*\***
+**Add a Basemap**
 
 1. Navigate to ArcGIS Online (AGOL) and click Map at the top of the page.
 
@@ -169,7 +169,7 @@ You can navigate to the Map Viewer from any Feature Layer item details page by c
 3. If necessary, click the **Basemap** button on the ribbon and choose a basemap.
 4. Save your map. On the ribbon, click the **Save** button and choose **Save**.
 
-\***\*Add Layers\*\***
+**Add Layers**
 
 1. On the ribbon, click the **Add** button and choose **Search for Layer**
 
@@ -187,7 +187,7 @@ You can navigate to the Map Viewer from any Feature Layer item details page by c
    The layers are drawn, with their default symbols, in the order in which they were loaded into the map.
 1. Save your map. On the ribbon, click the **Save** button and choose **Save**.
 
-\***\*Set Layer Properties\*\***
+**Set Layer Properties**
 
 1. In the **Contents** pane, point to your layer. Click the **More Options** button and choose **Rename**.
 2. In the **Rename** window, change the layer name and click **OK**.
@@ -202,7 +202,7 @@ You can navigate to the Map Viewer from any Feature Layer item details page by c
 10. Set the transparency percentage.
 11. Save your map. On the ribbon, click the **Save** button and choose **Save**.
 
-\***\*Define the Map Legend\*\***
+**Define the Map Legend**
 
 1. At the top of the **Contents** pane, click the **Legend** button.
    Legend entries are created for all layers except the basemap.
@@ -218,7 +218,7 @@ You can navigate to the Map Viewer from any Feature Layer item details page by c
 
 6. View the legend again to see the effect, and then go back to the **Contents** pane.
 
-\***\*Change a Symbol\*\***
+**Change a Symbol**
 
 1. In the **Contents** pane, point to a desired layer and click the **Change Style** button.
 
@@ -237,7 +237,7 @@ You can navigate to the Map Viewer from any Feature Layer item details page by c
 
 ---
 
-\***\*More Information\*\***
+**More Information**
 
 **Esri Resource Links**
 

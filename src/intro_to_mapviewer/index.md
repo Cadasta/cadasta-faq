@@ -29,11 +29,11 @@ User Account Information
 
 3.  Select item type **Maps**
 
-    Note: There are two sub-item types (1) Web Maps and (2) Map Files
+    _Note:_ There are two sub-item types (1) Web Maps and (2) Map Files
 
 4.  Select item sub-type **Web Maps**
 
-        Note: 	There are no Map Files sub-type in the demo group and are not covered in this
+    _Note:_ There are no Map Files sub-type in the demo group and are not covered in this
 
     documentation.
 
@@ -52,14 +52,14 @@ User Account Information
 
 11. Select item type **Layers**
 
-        Note: 	There are seven sub-item types (1) Feature Layers, (2) Tile Layers, (3) Map
+    _Note:_ There are seven sub-item types (1) Feature Layers, (2) Tile Layers, (3) Map
 
     Imager Layers, (4) Imagery Layers, (5) Scene Layers, (6) Tables, and (7) Layer
     Files
 
 12. Select item sub-type **Feature Layers**
 
-    Note: This documentation only covers **Feature Layers**.
+    _Note:_ This documentation only covers **Feature Layers**.
 
 13. Select **Feature Layer** Project Rose Field Collector PLP
 
@@ -80,36 +80,31 @@ User Account Information
 
 21. Select item type **Apps**
 
-        Note: 	There are three sub-item types (1) Web Apps, (2) Mobile Apps, and (3) Desktop
-
-    Apps
+    _Note:_ There are three sub-item types (1) Web Apps, (2) Mobile Apps, and (3) Desktop Apps
 
 22. Select item sub-type **Web Apps**
 
-        Note:	There are no Mobile App or Desktop App sub-types in the demo group and are
-
-    not covered in this documentation.
+    Note: here are no Mobile App or Desktop App sub-types in the demo group and are not covered in this documentation.
 
 23. Select **Web App** Project Rose Dashboard - Overview
 
 24. Click **View Dashboard**
 
-25. See **Dashboard Details** by selecting a collected record’s \***\*polygon\*\***
+25. See **Dashboard Details** by selecting a collected record’s **polygon**
 
 26. Navigate back to Content and Select **Web App** Project Rose Dashboard - QA Dashboard
 
 27. Click **View Dashboard**
 
-28. See **Dashboard Details** by selecting a collected record’s \***\*point\*\***
+28. See **Dashboard Details** by selecting a collected record’s **point**
 
-29. Navigate back to **Content** and Select **Web App** Project Rose Dashboard - Resource
-    Metrics
+29. Navigate back to **Content** and Select **Web App** Project Rose Dashboard - Resource Metrics
 
 30. Click **View Dashboard**
 
-31. See **Dashboard Details** by selecting a collected record’s \***\*polygon(s)\*\***
+31. See **Dashboard Details** by selecting a collected record’s **polygon(s)**
 
-    Note: This **dashboard** has the possibility of one or more manual selections at one time.
+    _Note:_ This **dashboard** has the possibility of one or more manual selections at one time.
 
 Other Item Types not covered in this documentation are:
 
@@ -165,20 +160,20 @@ Files
     ![](imgs/image16.png)
     ![](imgs/image11.png)
 
-1) Select **Add** to add layers to a map
+.Select **Add** to add layers to a map
 
-   ![](imgs/image20.png)
+![](imgs/image20.png)
 
-1) There are multiple options for adding data layers to the map: **Search for Layers**, **Browse Living Atlas Layers**, **Add Layer from Web**, **Add Layer from File**, and **Add Map Notes**
+1. There are multiple options for adding data layers to the map: **Search for Layers**, **Browse Living Atlas Layers**, **Add Layer from Web**, **Add Layer from File**, and **Add Map Notes**
 
    ![](imgs/image8.png)
 
-1) Select **Basemap** to choose a basemap
+1. Select **Basemap** to choose a basemap
 
    ![](imgs/image13.png)
    ![](imgs/image9.png)
 
-1) Navigate to Zoom In, Zoom Out, and Home location by using the **Navigation Console**
+1. Navigate to Zoom In, Zoom Out, and Home location by using the **Navigation Console**
 
    ![](imgs/image21.png)
 
@@ -186,13 +181,13 @@ Files
 
    ![](imgs/image22.png)![](imgs/image15.png)
 
-1) Share your map by selecting **Share**
+1. Share your map by selecting **Share**
 
    ![](imgs/image7.png)
 
 ---
 
-\***\*More Information\*\***
+**More Information**
 
 Esri Resource Links
 
