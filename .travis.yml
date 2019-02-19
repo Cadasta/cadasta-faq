@@ -10,13 +10,11 @@ jobs:
         - npm install --ignore-scripts
         - npm run docs:prepare
         - npm run docs:build
-    - stage: Deploy
-      if: branch = master AND type = push
-      deploy:
-        provider: pages
-        skip-cleanup: true
-        github-token: $GITHUB_TOKEN # Set in the settings page of your repository, as a secure variable
-        keep-history: true
-        local-dir: _book
-        on:
-          branch: master
+deploy:
+  provider: pages
+  skip-cleanup: true
+  github-token: $GITHUB_TOKEN # Set in the settings page of your repository, as a secure variable
+  keep-history: true
+  local-dir: _book
+  on:
+    branch: master
