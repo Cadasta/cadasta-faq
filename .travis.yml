@@ -7,7 +7,7 @@ jobs:
   include:
     - stage: Test
       script:
-        - npm install --only=prod --ignore-scripts
+        - npm install --ignore-scripts
         - npm run docs:prepare
         - npm run docs:build
     - stage: Deploy
