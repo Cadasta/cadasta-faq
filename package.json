@@ -4,9 +4,7 @@
   "description": "## Development",
   "main": "index.js",
   "dependencies": {
-    "gitbook": "^3.2.3",
-    "gitbook-plugin-theme-faq": "^1.2.1",
-    "minimist": "^1.2.0"
+    "gitbook": "^3.2.3"
   },
   "devDependencies": {
     "gitbook-cli": "^2.3.2"
