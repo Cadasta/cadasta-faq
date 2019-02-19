@@ -4,6 +4,15 @@
 
 ## Development
 
+### Writing
+
+FAQ entries should be written in an `index.md` file within a unique directory located in the `src` directory. The directory names are used to generate the URL for each ticket, so be concious of how it reads. As per [this bug ticket](https://github.com/olivernn/lunr.js/issues/243), the Lunr search used by this FAQ does not like emojis. For this reason, all emojis should be added via their [text representations](https://gist.github.com/rxaviers/7360908).
+
+#### Helpful Links
+
+- [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+- [Available Emojis](https://gist.github.com/rxaviers/7360908)
+
 ### Node.js
 
 If your machine has Node.js installed, this is the recommended method of running the application.
