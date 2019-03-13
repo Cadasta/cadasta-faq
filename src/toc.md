@@ -45,5 +45,4 @@ This is a list of all of the questions available in the FAQ. Questions must be l
 
 - [Survey123 Adding a new language](s123_add_new_lang/index.md)
 - [AGOL - Changing a User Password](chg_usr_pwd/index.md)
-- [Example Question](sample_question.md)
 - [Glossary](glossary.md) <!-- Do not delete this, it appears that builds fail without this -->
