@@ -2,7 +2,7 @@
   "root": "./src",
   "title": "Cadasta FAQ",
   "description": "Commonly asked questions regarding the Cadasta Platform.",
-  "plugins": ["theme-faq"],
+  "plugins": ["theme-faq", "advanced-emoji"],
   "structure": {
     "readme": "home.md",
     "summary": "toc.md"
