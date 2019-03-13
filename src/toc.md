@@ -24,7 +24,7 @@ This is a list of all of the questions available in the FAQ. Questions must be l
 ### Editing data
 
 - [Adding a field to a feature layer](add_field/index.md)
-- [Editing Polygon Vertices](editing_vertices/index.md) 
+- [Editing Polygon Vertices](editing_vertices/index.md)
 - [Deleting Vertices in ArcGIS Pro](delete_vertics_ArcPro/index.md)
 - [Deleting a Collected Survey Polygon](delete_collected_polygon/index.md)
 - [Joining Two Feature Layers](join_two_layers/index.md)
@@ -41,7 +41,7 @@ This is a list of all of the questions available in the FAQ. Questions must be l
 - [Printing a Web Map](print_webmap/index.md)
 - [Exporting Feature Layer to Shapefile](export_fl_to_shp/index.md)
 
-### Advanced options 
+### Advanced options
 
 - [Survey123 Adding a new language](s123_add_new_lang/index.md)
 - [AGOL - Changing a User Password](chg_usr_pwd/index.md)
