@@ -1,27 +1,17 @@
-:arrow_up_small: Remember: “**Introduction to Your Account**”
+<u>**Purpose**</u>
 
-User Account Information
+This page will explain some of the item types you can view and use in your ArcGIS Online account
 
-<table>
-    <tr>
-    <td>Login page</td>
-    <td>https://www.arcgis.com/home/signin.html</td>
-  </tr></table>
+<u>**Requirements**</u>
 
-1. **Sign In** with username and password at the url
-
-2. Your home page will be the **User Group** page
-   Select **Training Demo - Cadasta**
-
-3. **Content** will be found within the group
-
-4. Content can be **filtered** in various ways
-
-5. **Sign Out** of your account by selecting your **User Account** name in the top-left of your screen
+- You will need to have a username and password set up for you by a Cadasta team member. If you do not have a user please contact support@cadasta.org
+- You will need to sign to your account - see [Introduction to your account](intro_to_account/index.md) for a reminder.
 
 ---
 
-1.  Navigate to **Content**
+<u>**Steps**</u>
+
+1.      Navigate to **Content**
 
     ![](imgs/image11.jpg)
     ![](imgs/image6.jpg)
@@ -38,7 +28,7 @@ User Account Information
 
 4.  Select item sub-type **Web Maps**
 
-    _Note:_ There are no Map Files sub-type in the demo group and are not covered in this
+    _Note:_ There are no Map Files sub-type in the demo group and are **not** covered in this
 
     documentation.
 

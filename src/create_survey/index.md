@@ -1,4 +1,16 @@
 
+<u>**Purpose**</u>
+
+This page will explain how to create a survey in Survey123 
+
+<u>**Requirements**</u>
+
+* You will need to have a username and password set up for you by a Cadasta team member. If you do not have a user please contact support@cadasta.org
+
+-----
+
+<u>**Steps**</u>
+
 <u>**Create a Survey Form**</u>
 
 1. Navigate to http://survey123.esri.com
@@ -13,13 +25,13 @@
  
 6. Fill out at least one tag in the **Tags** section
  
-1. Fill out at least one sentence in the **Summary** section
+7. Fill out at least one sentence in the **Summary** section
  
-2. Click the **thumbnail** image
+8. Click the **thumbnail** image
  
-3. **Browse** to an image you would like to upload
+9. **Browse** to an image you would like to upload
  
-4. Click **Open**
+10. Click **Open**
 
 --------
 

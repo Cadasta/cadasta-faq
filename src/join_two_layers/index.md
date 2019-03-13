@@ -1,11 +1,17 @@
 
-Before joining features, please make sure the following has been done:
+<u>**Purpose**</u>
 
-1. You are the owner of feature layer 1
-1. You are the owner of feature layer 2
-1. You know which AGOL folder you can access
+This page will explain how to join a feature layer from Survey123 with another feature layer for Collector in ArcGIS Online
 
----
+<u>**Requirements**</u>
+
+* You will need to have a username and password set up for you by a Cadasta team member. If you do not have a user please contact support@cadasta.org
+* You will need to sign to your account - see [Introduction to your account](intro_to_account/index.md) for a reminder
+* You will need to the owner of both feature layers and you will need to know which AGOL folder you have access to. 
+
+-----
+
+<u>**Steps**</u>
 
 1. Navigate to the desired Web Map and press the "*Item Details*" button
 ![](imgs/image2.png)
@@ -13,18 +19,20 @@ Before joining features, please make sure the following has been done:
 2. Press the **Open in Map Viewer** button ![](imgs/image9.jpg)
 3. See the **Web Map** 
 ![](imgs/image5.jpg)
-4. Click **Analysis **
+4. Click **Analysis**
 ![](imgs/image18.jpg)
 5. See **Perform Analysis** sidebar
 ![](imgs/image11.jpg)
 6. Click **Summarize Data** ![](imgs/image17.jpg)
    
-1. See **Summarize Data** 
-![](imgs/image8.jpg)
 
-1. Click **Join Features** ![](imgs/image4.jpg)
+2. See **Summarize Data** 
+   
+    ![](imgs/image8.jpg)
 
-1. See the **Join Features Steps**
+3. Click **Join Features** ![](imgs/image4.jpg)
+
+4. See the **Join Features Steps**
 ![](imgs/image13.jpg)
 
 1. Choose your **target layer** (layer 1 mentioned in the pre-steps)

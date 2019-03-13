@@ -1,121 +1,110 @@
-:arrow_up_small: Remember: “**How To: Introduction to Your Account**”
+<u>**Purpose**</u>
 
-User Account Information
+This page will explain how to create a Story Map in ArcGIS Online
 
-<table>
-    <tr>
-    <td>Login page</td>
-    <td>https://www.arcgis.com/home/signin.html</td>
-  </tr></table>
+<u>**Requirements**</u>
 
-1. **Sign In** with username and password at the url
-
-2. Your home page will be the **User Group** page
-
-   Select **Training Demo - Cadasta**
-
-3. **Content** will be found within the group
-
-4. Content can be **filtered** in various ways
-
-5. **Sign Out** of your account by selecting your **User Account** name in the top-left of your screen
+- You will need to have a username and password set up for you by a Cadasta team member. If you do not have a user please contact support@cadasta.org
+- You will need to sign to your account - see [Introduction to your account](intro_to_account/index.md) for a reminder
 
 ---
+
+<u>**Steps**</u>
 
 1.  From the ArcGIS Online (AGOL) homepage, navigate to the **Apps Launcher**
 
     ![](imgs/image31.png)
 
-2.       Select the **Story Maps** app
+1.      Select the **Story Maps** app
 
     ![](imgs/image20.png)
 
-3.  A new internet window will open
+1.  A new internet window will open
 
     ![](imgs/image19.png)
 
-4.  Select **Create My First Story**
+1.  Select **Create My First Story**
 
-5.  Select **Map Journal**
+1.  Select **Map Journal**
 
     Note: Map Journal is one of many types of **Story** Map template types. You can choose whichever one you would like. In this example, a **Map Journal** template is used.
 
-6.  The **Map Journal Builder** splash screen appears
+1.  The **Map Journal Builder** splash screen appears
 
-7.  Select **Side Panel** and then **Start**
+1.  Select **Side Panel** and then **Start**
 
     ![](imgs/image5.png)
 
-8.  The **Map Journal Builder** screen appears
+1.  The **Map Journal Builder** screen appears
 
     Note: This is where you will build your **Story Map**. If you had chosen a **Map Tour Story Map template**, then it would be called **Map Tour Builder**.
 
     ![](imgs/image16.png)
 
-9.  Type in a title for your **Story Map** and click the forward button (![](imgs/image26.png))
+1.  Type in a title for your **Story Map** and click the forward button (![](imgs/image26.png))
 
     ![](imgs/image22.png)
 
-10. The **Add Home Section** splash screen appears
+1.  The **Add Home Section** splash screen appears
 
     Note: This is where you will add content to your story map. You will have the option to add one or more sections.
     This **Main Stage** content page is the first thing your audience will see. Subsequent content sections must be navigated to
 
     ![](imgs/image35.png)
 
-11. Under **Map** map drop-down choose **Select a map**
+1.  Under **Map** map drop-down choose **Select a map**
 
     ![](imgs/image12.png)
 
-12. In the next drop down, select **My Organization**
+1.  In the next drop down, select **My Organization**
 
     ![](imgs/image30.png)
 
-13. Select the **Access to Water** map
+1.  Select the **Access to Water** map
 
     ![](imgs/image2.png)
 
-14. Click **Next**
+1.  Click **Next**
 
     ![](imgs/image10.png)
 
-15. The **Side Panel Content** splash screen appears
+1.  The **Side Panel Content** splash screen appears
 
     Note: This is where you can add multimedia content that will show up on the left of your **Map**
 
     ![](imgs/image34.png)
 
-16. Click **Add**
+1.  Click **Add**
 
     ![](imgs/image8.png)
 
-17. Here is the first section you just created
+1.  Here is the first section you just created
 
     ![](imgs/image23.png)
 
-18. Click **Add Section**
+1.  Click **Add Section**
 
     ![](imgs/image28.png)
 
-19. A new section’s content splash screen appears
+1.  A new section’s content splash screen appears
 
     ![](imgs/image25.png)
     ![](imgs/image4.png)
 
-20. Repeat the same process again as done in content section one
+1.  Repeat the same process again as done in content section one
 
     ![](imgs/image4.png)
     ![](imgs/image8.png)
 
-21. Here is result of section two, “Access to Electricity”
+1.  Here is result of section two, “Access to Electricity”
 
     ![](imgs/image18.png)
 
-22. Click **Save**
+1.  Click **Save**
 
     ![](imgs/image17.png)
 
-23. You can tell your Story Map has been saved by the difference in the **top-right corner**
+1.  You can tell your Story Map has been saved by the difference in the **top-right corner**
 
     ![](imgs/image18.png)
     ![](imgs/image3.png)
