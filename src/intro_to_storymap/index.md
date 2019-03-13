@@ -1,38 +1,23 @@
 
 
+<u>**Purpose**</u>
 
+This page will explain how to create a Story Map in ArcGIS Online
 
-🔼Remember: “**How To: Introduction to Your Account**”
+<u>**Requirements**</u>
 
-User Account Information
+* You will need to have a username and password set up for you by a Cadasta team member. If you do not have a user please contact support@cadasta.org
+* You will need to sign to your account - see [Introduction to your account](intro_to_account/index.md) for a reminder
 
+-----
 
-<table>
-    <tr>
-    <td>Login page</td>
-    <td>https://www.arcgis.com/home/signin.html</td> 
-  </tr></table>
+<u>**Steps**</u>
 
-
-1. **Sign In** with username and password at the url
-
-2. Your home page will be the **User Group** page
-
-      Select **Training Demo - Cadasta**
-
-3. **Content** will be found within the group
-
-4. Content can be **filtered** in various ways
-
-5. **Sign Out** of your account by selecting your **User Account** name in the top-left of your screen
-
-----------------
-
 1.	From the ArcGIS Online (AGOL) homepage, navigate to the **Apps Launcher**
 
     ![](imgs/image31.png)
 
-2. 	Select the **Story Maps** app
+1. 	Select the **Story Maps** app
 
     ![](imgs/image20.png)
 

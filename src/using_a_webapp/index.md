@@ -1,6 +1,20 @@
-1. Navigate to the **User Group** page
+<u>**Purpose**</u>
 
-1. Search for or scroll to the **Web App**
+This page will explain how use a WebApp in ArcGIS Online
+
+<u>**Requirements**</u>
+
+* You will need to have a username and password set up for you by a Cadasta team member. If you do not have a user please contact support@cadasta.org
+* You will need to sign to your account - see [Introduction to your account](intro_to_account/index.md) for a reminder.
+
+-----
+
+<u>**Steps**</u>
+
+
+1. From the ArcGIS Online (AGOL) homepage, navigate to the **User Group** page
+
+2. Search for or scroll to the **Web App**
 
 3. Click on the **Web App** to navigate to the item details then click on **View Application** 
    

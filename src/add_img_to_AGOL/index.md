@@ -1,3 +1,18 @@
+<u>**Purpose**</u>
+
+This page will explain how to upload an orthomosaic file to your account on ArcGIS Online (AGOL)
+
+<u>**Requirements**</u>
+
+* You will need to have a username and password set up for you by a Cadasta team member. If you do not have a user please contact support@cadasta.org
+* You will need to sign to your account - see [Introduction to your account](intro_to_account/index.md) for a reminder
+* You will need to have an Esri license for ArcMap or ArcGIS Pro and have it installed on your workstation
+
+-----
+
+<u>**Steps**</u>
+
+
 1. Open ArcMap or ArcGIS Pro
 2. Open the drone image
 3. Right click the image layer and select Share -> as Web Layer

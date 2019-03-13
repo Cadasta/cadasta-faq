@@ -1,22 +1,35 @@
+<u>**Purpose**</u>
+
+This page will explain how to add pop-ups in a web map in ArcGIS Online
+
+<u>**Requirements**</u>
+
+* You will need to have a username and password set up for you by a Cadasta team member. If you do not have a user please contact support@cadasta.org
+* You will need to sign to your account - see [Introduction to your account](intro_to_account/index.md) for a reminder
+
+-----
+
+<u>**Steps**</u>
+
 1. Navigate to your desired map in the Map Viewer
 
     ![](imgs/image1.png)
 
-1. Click **More Options**  ![](imgs/image3.png)
+2. Click **More Options**  ![](imgs/image3.png)
 
-1. Click **Configure Pop-up** 
+3. Click **Configure Pop-up** 
    
    ![](imgs/image2.png)
 
-2. See the **Configure Pop-up** sidebar
+4. See the **Configure Pop-up** sidebar
 
     ![](imgs/image4.png)
 
-3. Choose an option from the **Display** drop-down
+5. Choose an option from the **Display** drop-down
 
     ![](imgs/image11.png)
 
-4. If you chose **A list of field attributes** follow these steps:
+6. If you chose **A list of field attributes** follow these steps:
 
     ![](imgs/image6.png)
 

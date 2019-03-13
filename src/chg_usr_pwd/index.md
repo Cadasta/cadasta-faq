@@ -1,5 +1,17 @@
+<u>**Purpose**</u>
+
+This page will explain how to change the password of your ArcGIS Online (AGOL) account 
+
+<u>**Requirements**</u>
+
+* You will need to have a username and password set up for you by a Cadasta team member. If you do not have a user please contact support@cadasta.org
+
+-----
+
+<u>**Steps**</u>
+
 1. Sign in to ArcGIS Online (AGOL)
-1. Select "User Name" in the top-right corner of the page:
+2. Select "User Name" in the top-right corner of the page:
 ![](imgs/image3.png)   
 1. Select "My Profile"
 ![](imgs/image1.png)
