@@ -20,7 +20,6 @@
         integrity="sha384-I6JCnqxMbC2DuiHjsoCiLa15NVbKRf8/ooANRLsXD87zD2dVqzlz6Oqjvj470ztk"
         crossorigin="anonymous">
     <link rel="stylesheet" href="{{ "style.css"|resolveAsset }}">
-    <link rel="stylesheet" href="/_css/cadasta.css">
     {{ super() }}
     {% for type, style in config.styles %}
         {% if fileExists(style) and type == "website" %}
@@ -35,7 +34,7 @@
         <div class="navbar-header">
             <a class="navbar-brand" href="https://cadasta.org">
                 <img src="http://assets.cadasta.org/logo/Color_Logo/Rectangular/logo_color_200x71/logo_color_200x71.png" width="200" height="71" alt="Cadasta">
-            </a>      
+            </a>
         </div>
         <div class="navbar-default">
             <ul class="nav navbar-nav">
