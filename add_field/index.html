@@ -181,16 +181,16 @@
                     <li class="active">Adding a field to a feature layer</li>
                 </ol>
                 <div class="faq-page">
-                <p><u><strong>Purpose</strong></u></p>
+                <h2 id="purpose">Purpose</h2>
 <p>This page will explain how to add an area field to a <a href="../glossary.html#feature-layer" class="glossary-term" title="This is an explanation of a feature layer.">feature layer</a> in ArcGIS Online</p>
-<p><u><strong>Requirements</strong></u></p>
+<h2 id="requirements">Requirements</h2>
 <ul>
 <li>You will need to have a username and password set up for you by a Cadasta team member. If you do not have a user please contact support@cadasta.org</li>
 <li>You will need to sign to your account - see <a href="intro_to_account/index.md">Introduction to your account</a> for a reminder</li>
 <li>You will need to be a member of the group in which the feature has been shared.</li>
 </ul>
 <hr>
-<p><u><strong>Steps</strong></u></p>
+<h2 id="steps">Steps</h2>
 <ol>
 <li><p>Navigate to the desired Web Map and press the <strong>Item Details</strong> button
 <img src="imgs/image1.png" alt=""></p>
@@ -198,54 +198,51 @@
 <li><p>Press the <strong>Open in Map Viewer</strong> button
 <img src="imgs/image6.jpg" alt=""></p>
 </li>
-<li><p>See the <strong>Web Map</strong> 
+<li><p>See the <strong>Web Map</strong>
 <img src="imgs/image3.jpg" alt=""></p>
 </li>
-<li><p>Click <strong>Content</strong> 
+<li><p>Click <strong>Content</strong>
 <img src="imgs/image2.jpg" alt=""></p>
 </li>
-<li><p>Click the <strong>Show Table</strong> icon <img src="imgs/image4.jpg" alt=""> 
+<li><p>Click the <strong>Show Table</strong> icon <img src="imgs/image4.jpg" alt="">
 under the desired layer</p>
-<p> <small>Note: This example uses the Pradan geometry - <a href="../glossary.html#polygon" class="glossary-term" title="A polygon is any 2-dimensional shape formed with at least 3 straight lines">Polygon</a> layer</small>
-<img src="imgs/image12.jpg" alt=""></p>
+<pre><code>&lt;small&gt;Note: This example uses the Pradan geometry - Polygon layer&lt;/small&gt;
+</code></pre><p><img src="imgs/image12.jpg" alt=""></p>
 </li>
 <li><p>See the <strong>Table View</strong></p>
 </li>
 <li><p>Click <strong>Options</strong> <img src="imgs/image5.jpg" alt=""></p>
 </li>
 <li><p>Click <strong>Add Field</strong></p>
-<p> <img src="imgs/image9.jpg" alt=""></p>
+<p><img src="imgs/image9.jpg" alt=""></p>
 </li>
-<li><p>Fill out the contents of the field values </p>
-<p> <small>Note: This example uses double type for its numerical field for area in hectares</small></p>
-<p> <img src="imgs/image10.jpg" alt=""></p>
+<li><p>Fill out the contents of the field values</p>
+<p><small>Note: This example uses double type for its numerical field for area in hectares</small></p>
+<p><img src="imgs/image10.jpg" alt=""></p>
 </li>
 <li><p>Click <strong>Add New Field</strong></p>
 </li>
 <li><p>See the new Field in the <strong>Table</strong></p>
-<p> <small>Note: This example uses the Hectares field</small></p>
-<p> <img src="imgs/image7.jpg" alt=""></p>
+<p><small>Note: This example uses the Hectares field</small></p>
+<p><img src="imgs/image7.jpg" alt=""></p>
 </li>
 <li><p>Click on the field name, <strong>Hectares</strong></p>
 </li>
 <li><p>Click on <strong>Calculate</strong></p>
-<p> <img src="imgs/image11.jpg" alt=""></p>
+<p><img src="imgs/image11.jpg" alt=""></p>
 </li>
 <li><p>The <strong>Calculate Field</strong> window appears</p>
 </li>
 <li><p>Fill out the <strong>SQL Expression</strong></p>
-<p> Expression: POWER(Shape__Area,2)/10000</p>
-<p> Explanation:    The Shape_Area field is in square meters. In order to convert meters to hectares, 
-you must base the expression on the following equation: Ha = m2/1,000</p>
-<p> <img src="imgs/image8.jpg" alt=""></p>
-</li>
+<pre><code>Expression: POWER(Shape__Area,2)/10000
+
+Explanation:    The Shape_Area field is in square meters. In order to convert meters to hectares,
+</code></pre><p>you must base the expression on the following equation: Ha = m2/1,000</p>
+<pre><code>![](imgs/image8.jpg)
+</code></pre></li>
 </ol>
-<ol>
-<li><p>Click <strong>Calculate</strong></p>
-</li>
-<li><p>See that the Hectares field has been calculated</p>
-</li>
-</ol>
+<p>1) Click <strong>Calculate</strong></p>
+<p>1) See that the Hectares field has been calculated</p>
 
                 </div>
             </div>
@@ -295,7 +292,7 @@ you must base the expression on the following equation: Ha = m2/1,000</p>
 
 <script>
 (function() {
-    gitbook.page.hasChanged({"page":{"title":"Adding a field to a feature layer","level":"3.1","depth":1,"next":{"title":"Editing Polygon Vertices","level":"3.2","depth":1,"path":"editing_vertices/index.md","ref":"editing_vertices/index.md","articles":[]},"previous":{"title":"Adding a drone image to AGOL/Portal","level":"2.4","depth":1,"path":"add_img_to_AGOL/index.md","ref":"add_img_to_AGOL/index.md","articles":[]},"dir":"ltr"},"config":{"plugins":["theme-faq","advanced-emoji"],"root":"./src","styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"advanced-emoji":{"embedEmojis":false},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-faq":{},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"theme":"default","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"home.md","glossary":"GLOSSARY.md","summary":"toc.md"},"variables":{},"title":"Cadasta FAQ","gitbook":"*","description":"Commonly asked questions regarding the Cadasta Platform."},"file":{"path":"add_field/index.md","mtime":"2019-03-18T19:31:49.864Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2019-03-18T19:32:45.236Z"},"basePath":"..","book":{"language":""}})
+    gitbook.page.hasChanged({"page":{"title":"Adding a field to a feature layer","level":"3.1","depth":1,"next":{"title":"Editing Polygon Vertices","level":"3.2","depth":1,"path":"editing_vertices/index.md","ref":"editing_vertices/index.md","articles":[]},"previous":{"title":"Adding a drone image to AGOL/Portal","level":"2.4","depth":1,"path":"add_img_to_AGOL/index.md","ref":"add_img_to_AGOL/index.md","articles":[]},"dir":"ltr"},"config":{"plugins":["theme-faq","advanced-emoji"],"root":"./src","styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"advanced-emoji":{"embedEmojis":false},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-faq":{},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"theme":"default","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"home.md","glossary":"GLOSSARY.md","summary":"toc.md"},"variables":{},"title":"Cadasta FAQ","gitbook":"*","description":"Commonly asked questions regarding the Cadasta Platform."},"file":{"path":"add_field/index.md","mtime":"2019-03-18T20:59:12.882Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2019-03-18T21:00:08.730Z"},"basePath":"..","book":{"language":""}})
 })();
 </script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
