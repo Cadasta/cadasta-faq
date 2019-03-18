@@ -1,14 +1,14 @@
-### Purpose
+## Purpose
 
 This page will explain how to log in to your ArcGIS Online account and view contents
 
-### Requirements
+## Requirements
 
 * You will need to have a username and passowrd set up for you by a Cadasta team member. If you do not have a user please contact support@cadasta.org
 
 ---
 
-### Steps
+## Steps
 
 1. Browse to https://www.arcgis.com/home/signin.html
 2. Sign-in with username and password at the url

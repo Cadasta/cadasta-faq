@@ -1,15 +1,15 @@
-### Purpose
+## Purpose
 
 This page will explain how to send surveys you have created in Survey123
 
-### Requirements
+## Requirements
 
 * You will need to have a username and password set up for you by a Cadasta team member. If you do not have a user please contact support@cadasta.org
 * You will need to install the Survey123 app from the Google Play store or from the AppStore
 
 -----
 
-### Steps
+## Steps
 
 
 1. Connect your mobile device to the internet

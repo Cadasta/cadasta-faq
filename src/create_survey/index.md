@@ -1,17 +1,17 @@
 
-### Purpose
+## Purpose
 
 This page will explain how to create a survey in Survey123
 
-### Requirements
+## Requirements
 
 * You will need to have a username and password set up for you by a Cadasta team member. If you do not have a user please contact support@cadasta.org
 
 -----
 
-### Steps
+## Steps
 
-### Create a Survey Form
+## Create a Survey Form
 
 1. Navigate to http://survey123.esri.com
 
@@ -35,7 +35,7 @@ This page will explain how to create a survey in Survey123
 
 --------
 
-### Add a Text Question
+## Add a Text Question
 
 1. Click **Create**
 
@@ -65,7 +65,7 @@ This page will explain how to create a survey in Survey123
 
 ---------
 
-### Add a Date Question
+## Add a Date Question
 
 1. Click the **Add** tab
 
@@ -87,7 +87,7 @@ default
 
  -------------
 
-### Add a Multiple-Choice Question
+## Add a Multiple-Choice Question
 
 1. Drag the **Multiple Choice** question onto your form
 
@@ -103,7 +103,7 @@ default
 
 --------------
 
-### Add a Multiline Text Question
+## Add a Multiline Text Question
 
 1. Drag the **Multiline Text** question onto your form
 
@@ -126,7 +126,7 @@ from being entered
 
  ---------
 
-### Add an Image Question
+## Add an Image Question
 
 1. Drag the **Image** question onto your form
 
@@ -140,7 +140,7 @@ from being entered
 
 ------
 
-### Add a GeoPoint Question
+## Add a GeoPoint Question
 
 1. Drag a **GeoPoint** question onto your form
 
@@ -160,7 +160,7 @@ you statement
 -----------
 
 
-### Preview Before Publishing
+## Preview Before Publishing
 
 1. Click **Preview** in the lower-right side of the Design page
 
@@ -176,7 +176,7 @@ you statement
 
 ---
 
-### Publish a Survey
+## Publish a Survey
 
 1. Click **Publish** in the lower-right side of the Design page
 

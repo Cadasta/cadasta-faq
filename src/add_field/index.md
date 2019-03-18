@@ -1,8 +1,8 @@
-### Purpose
+## Purpose
 
 This page will explain how to add an area field to a feature layer in ArcGIS Online
 
-### Requirements
+## Requirements
 
 - You will need to have a username and password set up for you by a Cadasta team member. If you do not have a user please contact support@cadasta.org
 - You will need to sign to your account - see [Introduction to your account](intro_to_account/index.md) for a reminder
@@ -10,7 +10,7 @@ This page will explain how to add an area field to a feature layer in ArcGIS Onl
 
 ---
 
-### Steps
+## Steps
 
 1.  Navigate to the desired Web Map and press the **Item Details** button
     ![](imgs/image1.png)

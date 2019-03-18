@@ -1,21 +1,21 @@
-### Purpose
+## Purpose
 
 This page will explain how to create an online web map
 
-### Requirements
+## Requirements
 
 1. You will need to have a username and passowrd set up for you by a Cadasta team member. If you do not have a user please contact support@cadasta.org
 2. You will need to sign to your account - see [Introduction to your account](intro_to_account/index.md) for a reminder.
 
-### Tips
+## Tips
 
 [Introduction to Item Types](intro_to_itemtypes/index.md)
 
 [Introduction to Map Viewer](intro_to_mapviewer/index.md)
 
-### Steps
+## Steps
 
-### Add a Basemap
+## Add a Basemap
 
 1. Navigate to ArcGIS Online (AGOL) and click Map at the top of the page.
 

@@ -1,15 +1,15 @@
-### Purpose
+## Purpose
 
 This page will explain some of the item types you can view and use in your ArcGIS Online account
 
-### Requirements
+## Requirements
 
 - You will need to have a username and password set up for you by a Cadasta team member. If you do not have a user please contact support@cadasta.org
 - You will need to sign to your account - see [Introduction to your account](intro_to_account/index.md) for a reminder.
 
 ---
 
-### Steps
+## Steps
 
 1.      Navigate to **Content**
 

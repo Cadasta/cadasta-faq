@@ -1,25 +1,41 @@
 @import url("https://fonts.googleapis.com/css?family=Roboto|Roboto+Condensed");
 
 body {
-    font-family: Roboto;
-    color: #595a5c;
+  font-family: Roboto;
+  color: #595a5c;
 }
 
 h1 {
-    font-family: Roboto Condensed,Roboto,sans-serif;
-    color: #0e305e;
+  font-family: Roboto Condensed, Roboto, sans-serif;
+  color: #0e305e;
 }
 
 a,
 a.list-group-item {
-    color: #2a5db0;
-    text-decoration: none;
+  color: #2a5db0;
+  text-decoration: none;
 }
 
 a:hover,
 a.list-group-item:hover {
-    color: #0e305e;
-    text-decoration: underline;
+  color: #0e305e;
+  text-decoration: underline;
+}
+
+h2 {
+  font-size: 1.5em !important;
+}
+h3 {
+  font-size: 1.17em !important;
+}
+h4 {
+  font-size: 1.12em !important;
+}
+h5 {
+  font-size: 0.83em !important;
+}
+h6 {
+  font-size: 0.75em !important;
 }
 
 h2,
@@ -27,9 +43,9 @@ h3,
 h4,
 h5,
 h6 {
-    color: #0e305e;
+  color: #0e305e;
 }
 
 .navbar-nav {
-    padding-top: 25px;
+  padding-top: 25px;
 }

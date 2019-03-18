@@ -1,13 +1,13 @@
-### Purpose
+## Purpose
 
 This page will explain how to add another language in your Survey123 survey
 
-### Requirements
+## Requirements
 
 * You will need to have Microsoft Excel installed on your workstation and an have an existing survey file
 -----
 
-### Steps
+## Steps
 
 1. Open your survey form in Microsoft Excel and navigate to the "Survey" tab
 2. Scroll over to the second Label column, or field, header
