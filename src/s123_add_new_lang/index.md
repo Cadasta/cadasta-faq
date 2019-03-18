@@ -1,17 +1,17 @@
-<u>**Purpose**</u>
+### Purpose
 
 This page will explain how to add another language in your Survey123 survey
 
-<u>**Requirements**</u>
+### Requirements
 
 * You will need to have Microsoft Excel installed on your workstation and an have an existing survey file
 -----
 
-<u>**Steps**</u>
+### Steps
 
-1. Open your survey form in Microsoft Excel and navigate to the "Survey" tab 
+1. Open your survey form in Microsoft Excel and navigate to the "Survey" tab
 2. Scroll over to the second Label column, or field, header
-   
+
     ![](imgs/image1.png)
 
     If you do not know the official language or subtag to use, please search for the language from this link: https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
@@ -24,7 +24,7 @@ This page will explain how to add another language in your Survey123 survey
 
     label::Indonesian (id)
 
-4. Note that the description name upholds proper capitalization, or proper casing, while the subtag is completely uncapitalized 
+4. Note that the description name upholds proper capitalization, or proper casing, while the subtag is completely uncapitalized
 
     Also please note that there is only a space between the description and the open parenthesize
 

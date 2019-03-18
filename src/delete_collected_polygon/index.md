@@ -1,8 +1,8 @@
-<u>**Purpose**</u>
+### Purpose
 
 This page will explain how to delete a polygon collected in the field in ArcGIS Online
 
-<u>**Requirements**</u>
+### Requirements
 
 * You will need to have a username and password set up for you by a Cadasta team member. If you do not have a user please contact support@cadasta.org
 * You will need to sign to your account - see [Introduction to your account](intro_to_account/index.md) for a reminder
@@ -10,7 +10,7 @@ This page will explain how to delete a polygon collected in the field in ArcGIS 
 
 -----
 
-<u>**Steps**</u>
+### Steps
 
 
 1.	Navigate to your User Group
@@ -20,7 +20,7 @@ This page will explain how to delete a polygon collected in the field in ArcGIS 
 2.	Find the Field Collector Map (Web Map) you used to collect the polygons
 
 1. Select the Web Map
-	
+
     ![](imgs/image15.jpg)
 
 1. Press the **Open in Map Viewer** button
@@ -36,12 +36,12 @@ This page will explain how to delete a polygon collected in the field in ArcGIS 
 1. See the **Map Viewer Content** Sidebar
 ![](imgs/image17.jpg)
 
-1. Hover the mouse over the polygon layer 
+1. Hover the mouse over the polygon layer
 
     ![](imgs/image23.jpg)
 
 1. You will see multiple options. Select **Show Table**
-   
+
    ![](imgs/image19.jpg)
 
 2. See Show Table view
@@ -55,7 +55,7 @@ This page will explain how to delete a polygon collected in the field in ArcGIS 
 
     ![](imgs/image8.jpg)
     ![](imgs/image14.jpg)
-1. You can toggle columns on and off by checking and unchecking the boxes next to the 
+1. You can toggle columns on and off by checking and unchecking the boxes next to the
 column names
 
     <small> Note: In this example, only the OBJECTID column is toggled on and showing</small>

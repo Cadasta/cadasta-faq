@@ -4,7 +4,7 @@ This is a list of all of the questions available in the FAQ. Questions must be l
 
 # Summary
 
-### Getting Started
+#### Getting Started
 
 - [Introduction to your account](intro_to_account/index.md)
 - [Introduction to Item Types](intro_to_itemtypes/index.md)
@@ -14,14 +14,14 @@ This is a list of all of the questions available in the FAQ. Questions must be l
 - [Using a Web App](using_a_webapp/index.md)
 - [Introduction to Creating a Story Map](intro_to_storymap/index.md)
 
-### Adding data
+#### Adding data
 
 - [Adding a feature layer to AGOL](add_fl_in_AGOL/index.md)
 - [Adding a Feature Layer to a Collector Map](add_fl_to_collectormap/index.md)
 - [Adding a Feature Layer From a File to a Collector Map](add_fl_to_collector_map/index.md)
 - [Adding a drone image to AGOL/Portal](add_img_to_AGOL/index.md)
 
-### Editing data
+#### Editing data
 
 - [Adding a field to a feature layer](add_field/index.md)
 - [Editing Polygon Vertices](editing_vertices/index.md)
@@ -29,19 +29,19 @@ This is a list of all of the questions available in the FAQ. Questions must be l
 - [Deleting a Collected Survey Polygon](delete_collected_polygon/index.md)
 - [Joining Two Feature Layers](join_two_layers/index.md)
 
-### Editing how the map looks</h3>
+#### Editing how the map looks</h3>
 
 - [Creating Web Map Pop-Ups](add_webmap_popup/index.md)
 - [Adding labels to features in a web map](labeling_features/index.md)
 - [Changing a Basemap for a Collector Map](chg_basemap_for_collectormap/index.md)
 - [Setting Basemap Transpancey](set_basemap_trans/index.md)
 
-### Sharing your results</h3>
+#### Sharing your results</h3>
 
 - [Printing a Web Map](print_webmap/index.md)
 - [Exporting Feature Layer to Shapefile](export_fl_to_shp/index.md)
 
-### Advanced options
+#### Advanced options
 
 - [Survey123 Adding a new language](s123_add_new_lang/index.md)
 - [AGOL - Changing a User Password](chg_usr_pwd/index.md)
