@@ -1,15 +1,15 @@
-<u>**Purpose**</u>
+## Purpose
 
 This page will explain how to edit the vertices in a polygon  in ArcGIS Online
 
-<u>**Requirements**</u>
+## Requirements
 
 * You will need to have a username and password set up for you by a Cadasta team member. If you do not have a user please contact support@cadasta.org
 * You will need to sign to your account - see [Introduction to your account](intro_to_account/index.md) for a reminder
 * You will need to be a member of the group in which the feature has been shared.
 -----
 
-<u>**Steps**</u>
+## Steps
 
 1.	Navigate to **map** in Map Viewer
 
@@ -33,7 +33,7 @@ This page will explain how to edit the vertices in a polygon  in ArcGIS Online
     ![](imgs/image6.png)
 
 7.	Click anywhere **outside** of the polygon
-    
+
     ![](imgs/image2.png)
 
 8.	Click **Save**
