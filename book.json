@@ -4,7 +4,7 @@
   "description": "Commonly asked questions regarding the Cadasta Platform.",
   "plugins": ["theme-faq", "advanced-emoji"],
   "styles": {
-    "website": "_css/cadasta.css"
+    "website": "styles/cadasta.css"
   },
   "structure": {
     "readme": "home.md",
