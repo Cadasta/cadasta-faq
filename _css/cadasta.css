@@ -1,13 +1,22 @@
 @import url("https://fonts.googleapis.com/css?family=Roboto|Roboto+Condensed");
 
+* {
+  -webkit-overflow-scrolling: touch;
+  -webkit-tap-highlight-color: transparent;
+  -webkit-text-size-adjust: none;
+  -webkit-touch-callout: none;
+  -webkit-font-smoothing: antialiased;
+}
+
 body {
-    font-family: Roboto;
-    color: #595a5c;
+  font-family: Roboto;
+  color: #595a5c;
+  text-rendering: optimizeLegibility;
 }
 
 h1 {
-    font-family: Roboto Condensed,Roboto,sans-serif;
-    color: #0e305e;
+  font-family: Roboto Condensed, Roboto, sans-serif;
+  color: #0e305e;
 }
 
 a,
