@@ -1,4 +1,4 @@
-<u>**Purpose**</u>
+## Purpose
 
 This page will explain how to add a feature layer to a Collector web map in ArcGIS Online (AGOL)
 
@@ -9,7 +9,7 @@ This page will explain how to add a feature layer to a Collector web map in ArcG
 
 -----
 
-<u>**Steps**</u>
+## Steps
 
 1. In AGOL, navigate to your Group page
    ![](../add_fl_to_collectormap/imgs/image5.png)
@@ -26,7 +26,7 @@ This page will explain how to add a feature layer to a Collector web map in ArcG
 1. See the Map Viewer with the Collector Map (Organization Name)
 ![](../add_fl_to_collectormap/imgs/image1.png)
 
-1. Press the "Add" button 
+1. Press the "Add" button
 
     ![](../add_fl_to_collectormap/imgs/image8.png)
 
@@ -37,12 +37,12 @@ This page will explain how to add a feature layer to a Collector web map in ArcG
 1. Type in the name of the layer in the search section.
     <small>*Note: examplepolygon was used in this example*</small>
     ![](../add_fl_to_collectormap/imgs/image10.png)
-1. Select the plus icon to add the layer  
+1. Select the plus icon to add the layer
 ![](../add_fl_to_collectormap/imgs/image9.png)
 2. See that the new layer *example polygon* has been added and is present in the Legend
 ![](../add_fl_to_collectormap/imgs/image2.png)
 
 3. Press the "Save" button
-   
+
    ![](../add_fl_to_collectormap/imgs/image7.png)
 
