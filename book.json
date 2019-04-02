@@ -3,6 +3,9 @@
   "title": "Cadasta FAQ",
   "description": "Commonly asked questions regarding the Cadasta Platform.",
   "plugins": ["theme-faq", "advanced-emoji"],
+  "styles": {
+    "website": "styles/cadasta.css"
+  },
   "structure": {
     "readme": "home.md",
     "summary": "toc.md"

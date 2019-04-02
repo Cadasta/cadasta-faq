@@ -1,15 +1,15 @@
-<u>**Purpose**</u>
+## Purpose
 
 This page will explain how to add a feature layer from a file to a Collector web map in ArcGIS Online (AGOL)
 
-<u>**Requirements**</u>
+## Requirements
 
 * You will need to have a username and password set up for you by a Cadasta team member. If you do not have a user please contact support@cadasta.org
 * You will need to sign to your account - see [Introduction to your account](intro_to_account/index.md) for a reminder
 
 -----
 
-<u>**Steps**</u>
+## Steps
 
 
 1. In AGOL, navigate to your Group page
@@ -36,18 +36,18 @@ This page will explain how to add a feature layer from a file to a Collector web
 
 1. Press the "Choose File" button.
     <small>Note the rules for files in the splash screen</small>
-1. Navigate to a zipped shapefile folder 
+1. Navigate to a zipped shapefile folder
 ![](../add_fl_to_collector_map/imgs/image5.png)
 1. Press the "Import Layer" button
 ![](../add_fl_to_collector_map/imgs/image10.png)
 
-1. Symbolize, or stylize, the layer 
+1. Symbolize, or stylize, the layer
 ![](../add_fl_to_collector_map/imgs/image7.png)
 1. Press the "Done" button
 
 1. See the new layer in the Legend
 ![](../add_fl_to_collector_map/imgs/image1.png)
 1. Press the "Save" button
-   
+
    ![](../add_fl_to_collector_map/imgs/image8.png)
 

@@ -1,33 +1,33 @@
 
-<u>**Purpose**</u>
+## Purpose
 
 This page will explain how to join a feature layer from Survey123 with another feature layer for Collector in ArcGIS Online
 
-<u>**Requirements**</u>
+## Requirements
 
 * You will need to have a username and password set up for you by a Cadasta team member. If you do not have a user please contact support@cadasta.org
 * You will need to sign to your account - see [Introduction to your account](intro_to_account/index.md) for a reminder
-* You will need to the owner of both feature layers and you will need to know which AGOL folder you have access to. 
+* You will need to the owner of both feature layers and you will need to know which AGOL folder you have access to.
 
 -----
 
-<u>**Steps**</u>
+## Steps
 
 1. Navigate to the desired Web Map and press the "*Item Details*" button
 ![](imgs/image2.png)
 
 2. Press the **Open in Map Viewer** button ![](imgs/image9.jpg)
-3. See the **Web Map** 
+3. See the **Web Map**
 ![](imgs/image5.jpg)
 4. Click **Analysis**
 ![](imgs/image18.jpg)
 5. See **Perform Analysis** sidebar
 ![](imgs/image11.jpg)
 6. Click **Summarize Data** ![](imgs/image17.jpg)
-   
 
-2. See **Summarize Data** 
-   
+
+2. See **Summarize Data**
+
     ![](imgs/image8.jpg)
 
 3. Click **Join Features** ![](imgs/image4.jpg)
@@ -40,23 +40,23 @@ This page will explain how to join a feature layer from Survey123 with another f
     <small>Note: This will be your geometry layer in this example </small>
 ![](imgs/image12.jpg)
 1. Choose your **join layer** (layer 2 mentioned in the pre-steps)
-	
+
     <small>Note: This will be your survey layer in this example</small>
 ![](imgs/image10.jpg)
 
 1. Select the J**oin Type, Choose the fields to match**
-	
+
     <small>Note: This example bases the join on fields (tables) and not on geometry (spatial) </small>
-![](imgs/image14.jpg)    
+![](imgs/image14.jpg)
 1. Select the fields to join
     ![](imgs/image7.jpg)
 
-    1. Select **GlobalID** (layer 1) 
+    1. Select **GlobalID** (layer 1)
     2. Select **collectorID** (layer 2)
    ![](imgs/image16.jpg)
 
 1. Choose **Join Operation, Join one to many**
-	
+
     <small>Note: This example uses a one to many relationship but you could use a one to one relationship for other reasons </small>
 ![](imgs/image1.jpg)
 

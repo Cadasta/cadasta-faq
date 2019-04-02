@@ -1,8 +1,8 @@
-<u>**Purpose**</u>
+## Purpose
 
 This page will explain how to export a feature layer in ArcGIS Online
 
-<u>**Requirements**</u>
+## Requirements
 
 * You will need to have a username and password set up for you by a Cadasta team member. If you do not have a user please contact support@cadasta.org
 * You will need to sign to your account - see [Introduction to your account](intro_to_account/index.md) for a reminder
@@ -10,7 +10,7 @@ This page will explain how to export a feature layer in ArcGIS Online
 
 -----
 
-<u>**Steps**</u>
+## Steps
 
 
 1.	Navigate to the desired Feature Layer
@@ -34,11 +34,11 @@ This page will explain how to export a feature layer in ArcGIS Online
 ![](imgs/image7.png)
 
 1. Click **Export**
-7.	See the resulting exported file page 
+7.	See the resulting exported file page
 ![](imgs/image4.png)
 
 8.	Click **Download**
-    
+
     ![](imgs/image3.png)
 
 9.	The file will download as a zipped file
