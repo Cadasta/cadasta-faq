@@ -16,13 +16,13 @@ This page will explain how to upload an orthomosaic file to your account on ArcG
 1. Open ArcMap or ArcGIS Pro
 2. Open the drone image
 3. Right click the image layer and select Share -> as Web Layer
-![](imgs/image3.png)
+![](imgs/image1.jpg)
 
-1. Select “Map Image” option
+1. In the "Layer type" section, select the “Tile” option
+2. In the "Share with" section, make sure that you share the new layer with the appropriate group.
 
-2. Go to the “Configuration” tab and then select the pencil icon next to the image layer
-![](imgs/image2.png)
+3. Go to the “Configuration” tab and make sure that the “levels of detail” slider is set to its maximum value (level 23) and that the "Allow clients to export cache tiles" checkbox is turned on
+![](imgs/image2.jpg)
 
-1. Make sure to slide the “levels of detail” to its maximum value (level 23)
-![](imgs/image1.png)
+
 
