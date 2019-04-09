@@ -195,7 +195,7 @@ further edit a survey after it is published
 
 5. Click **Content** to view the My Content page
 
-    You will see a feature layer that will be used to store any location information you collect with your survey and a survey item that is the survey form itself. Note where these items are stored
+    You will see a feature layer that will be used to store any location information you collect with your survey and a survey item that is the survey form itself. Note where these items are stored. Make sure that you share the layer with the group that you belong to so that other people in the group can see it.
 
 6. **Sign out** of your ArcGIS Online account
 
