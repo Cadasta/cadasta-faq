@@ -24,5 +24,7 @@ This page will explain how to upload an orthomosaic file to your account on ArcG
 3. Go to the “Configuration” tab and make sure that the “levels of detail” slider is set to its maximum value (level 23) and that the "Allow clients to export cache tiles" checkbox is turned on
 ![](imgs/image2.jpg)
 
+1. Press the "Publish" button 
+2. After the new layer is created you will need to wait untill all of the tiles have been created and it may take up to 30 minutes for this process to finish
 
 
