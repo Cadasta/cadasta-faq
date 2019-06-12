@@ -4,6 +4,8 @@ This is a list of all of the questions available in the FAQ. Questions must be l
 
 # Summary
 
+- [Test](test/index.md)
+
 ### Getting Started
 
 - [Introduction to your account](intro_to_account/index.md)
