@@ -8,6 +8,8 @@ script:
   - npm run docs:prepare
   - npm run docs:build
 deploy:
+  edge:
+    branch: v1.8.47
   provider: pages
   skip-cleanup: true
   github-token: $GITHUB_TOKEN # Set in the settings page of your repository, as a secure variable
