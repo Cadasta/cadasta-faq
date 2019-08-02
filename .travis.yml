@@ -1,7 +1,7 @@
 language: generic
 env:
   global:
-  - secure: Wmzcl21YO0Hsf0WvBTjVlJIpcy4LiigwMIQQNsT6qtzqJLK369pzsjnGfmmmM3/yI1pObum36xMmQUGgdmHj9uhnRDcPA0mivPt2Fez+1IKPqkXPZLyWNN7T2XE0GtU7mnjeerwbMtrOq4CxfZptVo/2HZcsIWVURI24bAmzaHy7JQKYoUQHVjVt3PNtkVV4sOfZHizISYWlaMMqDICLR179DstLsSbFiTdVn/8fLRcPYbiF62QgsyYqWKkZu8ySF8tM+j1du9hIW+6y0ogQuITDaZrJeYMOmnXNgOmr+GZCDxUb2HxoJQ5arsRR+gawSv9iXkPr0x9mRK4pPIKgFAZEqQSOOoKiPBKobkBzlpRjLMSZsVyEo0y1Bx/nhCHQdxPP7lq/H0Dm/GX+35y9CrjEUrlx2bn+LBgoZVkV8QUK/UnuVILjyQVMLubCOaPwkDN5unhom9WuSB7np/u2fAmrNJifAAeCex3T0yZ6GomWqZtQgBxB2IVMGGO6Ts1X4evYrwBmhF4T/9SIiYtLgpaLyA2kuFaiQuU8bbBTrsl8oI2fYiScF5XecfUe/7SOoPCL9O2RBwD/XTBXcij/1LNvJqVtefR6I48V7Q+qhfo1b342Oao97SQEnOr6S7pYywFCNKiUNhdNdyDuOy2I2oRRLz0phGOPqanSRYnWmGk=
+    secure: hcTHrf5PZM355WjbcAjCbhNLS+6dOfqRsc6iR0fq6NHCdzDBqJja7spAJP9Qfth3Tt4TBr6NJ24GVX6T+97OlfQEJZKMipk0KC/ogS2VZoGyQdL7s2V6DIgD5/iC2MHrMNROJ5kmlEZwG1EtiWKd7WN+wHMMlmoP7Z9p6ZnfdMniLTz/DsUrkSr/gfhsBoutzfETzxCBbtpTe8dgIAG/4Eo73XaSKqQzKc/Sk6fXvCZXP2oKovUnqa9bYYE3pyBK7X7O7f96tdt0/WEhDzudux41yeG0GiIQ9hE3w6VDUvDxMEwB+JQpYzXjm1qyw+IrssTPHlRn9KLuzfMPeCsBlMY9DgNM8DFhQYCXjr0uiwP3t9QmuPlvA/9xqtat2wbHUP6/K1y1SJgQCpEAGS7YHQ0zIRLv6BYTRO3gtbELln9nhYC8OtpNno25f2rHSzg9+XYW1Ea2of0tTKRNtwE8yPDnW2Nz1m1ipH3+b+ECDroOOP0FVG5pxFa/QjfLjTNi8DwAhBFxGyp4aCNf5dsT1ua/8wzmA3TDZKrdvGVOV1IkdiNpzqet+vlLuh3RbxjTTB6zM5dFEjjfqmtJTo2MT2BjCRo5u/inzJwGGzZz+MidWQfNFwQ42DldoddN03PztQdpfOZczRiOxH5mMAi5tNkgxdW6FjYxgTc5dPTpJ/o=
 script:
   - npm install --ignore-scripts
   - npm run docs:prepare
@@ -9,7 +9,6 @@ script:
 deploy:
   provider: pages
   skip-cleanup: true
-  github-token: $GITHUB_TOKEN # Set in the settings page of your repository, as a secure variable
   keep-history: true
   local-dir: _book
   on:
