@@ -4,6 +4,7 @@
   "description": "## Development",
   "main": "index.js",
   "dependencies": {
+    "gh-pages": "^2.1.0",
     "gitbook": "^3.2.3",
     "gitbook-cli": "^2.3.2",
     "gitbook-plugin-advanced-emoji": "^0.2.2",
