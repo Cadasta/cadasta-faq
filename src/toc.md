@@ -13,7 +13,7 @@ This is a list of all of the questions available in the FAQ. Questions must be l
 - [Sending offline collected surveys](send_collected_surveys/index.md)
 - [Using a Web App](using_a_webapp/index.md)
 - [Introduction to Creating a Story Map](intro_to_storymap/index.md)
-
+- [Setting up a project - Complete Workflow](setup_prj_full_workflow/index.md)
 ### Adding data
 
 - [Adding a feature layer to AGOL](add_fl_in_AGOL/index.md)
