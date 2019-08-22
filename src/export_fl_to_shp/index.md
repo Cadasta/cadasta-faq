@@ -15,14 +15,13 @@ This page will explain how to export a feature layer in ArcGIS Online
 
 1.	Navigate to the desired Feature Layer
 
-    ![](imgs/image6.png)
-
     Go to the **Settings** tab and make sure the settings are the same as below:
 
     ![](imgs/export_fl_to_shp_settings1.JPG)
     ![](imgs/export_fl_to_shp_settings2.JPG)
     ![](imgs/export_fl_to_shp_settings3.JPG)
     ![](imgs/export_fl_to_shp_settings4.JPG)
+
 2.	Click **Export Data**
 
     ![](imgs/image5.png)
