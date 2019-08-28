@@ -5,13 +5,13 @@ This page will explain how to create an online web map
 ## Requirements
 
 1. You will need to have a username and passowrd set up for you by a Cadasta team member. If you do not have a user please contact support@cadasta.org
-2. You will need to sign to your account - see [Introduction to your account](intro_to_account/index.md) for a reminder.
+2. You will need to sign to your account - see [Introduction to your account](toc/intro_to_account/index.md) for a reminder.
 
 ## Tips
 
-[Introduction to Item Types](intro_to_itemtypes/index.md)
+[Introduction to Item Types](https://faq.cadasta.org/intro_to_itemtypes/)
 
-[Introduction to Map Viewer](intro_to_mapviewer/index.md)
+[Introduction to Map Viewer](https://faq.cadasta.org/intro_to_mapviewer/)
 
 ## Steps
 
