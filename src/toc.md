@@ -9,6 +9,7 @@ This is a list of all of the questions available in the FAQ. Questions must be l
 * [Introduction](home.md)
 * [Introduction to your account](intro_to_account/index.md)
 * [Introduction to Item Types](intro_to_itemtypes/index.md)
+* [Introduction to Map Viewer](intro_to_mapviewer/index.md)
 * [Creating an Online Map](create_webmap/index.md)
 * [Creating a Survey Form](create_survey/index.md)
 * [Sending offline collected surveys](send_collected_surveys/index.md)
