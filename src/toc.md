@@ -18,6 +18,7 @@ This is a list of all of the questions available in the FAQ. Questions must be l
 * [Setting up a project - Complete Workflow](setup_prj_full_workflow/index.md)
 * [Creating a Web App](create_webapp/index.md)
 * [Creating an Operations Dashboard](create_ops_dashboard/index.md)
+* [Using Project Rose as a Survey Template](use_projectrose_as_template/index.md)
 
 ## Adding data
 
