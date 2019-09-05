@@ -48,6 +48,7 @@ This is a list of all of the questions available in the FAQ. Questions must be l
 ## Sharing your results
 
 * [Printing a Web Map](print_webmap/index.md)
+* [Printing Reports of Survey123 records](s123_reports/index.md)
 * [Exporting Feature Layer to Shapefile](export_fl_to_shp/index.md)
 
 ## Advanced options
