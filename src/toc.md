@@ -54,5 +54,6 @@ This is a list of all of the questions available in the FAQ. Questions must be l
 
 * [Survey123 Adding a new language](s123_add_new_lang/index.md)
 * [AGOL - Changing a User Password](chg_usr_pwd/index.md)
+* [Adding a Tile Layer as a Basemap](add_tl_as_basemap/index.md)
 * [Glossary](glossary.md) <!-- Do not delete this, it appears that builds fail without this -->
 
